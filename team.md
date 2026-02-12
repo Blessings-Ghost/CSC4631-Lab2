@@ -1,1 +1,2 @@
-Team lead: Blessings Libonda
+CSC 4631 Team File
+Team lead: Blessings
