@@ -1,0 +1,2 @@
+REVERT: Creates new commit,preserveshistory, SAFE for shared branches
+RESET: Erases cmmits, rewrites history, DANGEROUS for shared branches
