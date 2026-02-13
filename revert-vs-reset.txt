@@ -1,16 +1,2 @@
-REVERT 
-Creates a new commit that undoes the changes from a previous commit
-preserves the history
-Safe to use for shared branches
-Other team members can pull without issues
- 
-RESET
-Erases commits completely from history
-DANGEROUS for shared branches
-Moves the branch pointer back to an earlier commit
-Only use on local commits that have not been pushed
-
-The Key difference is
-Revert preserves history and adds new commit
-Reset rewrites history and deletes commits 
-
+REVERT: Creates new commit,preserveshistory, SAFE for shared branches
+RESET: Erases cmmits, rewrites history, DANGEROUS for shared branches
